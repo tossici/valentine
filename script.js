@@ -5,7 +5,7 @@ const successMessage = document.getElementById('success-message');
 const questionText = document.getElementById('question');
 
 let scaleFactor = 1;
-const phrases = "Stai spezzando il mio cuore :(";
+const phrases = ":(";
 let phraseIndex = 0;
 
 noBtn.addEventListener('click', () => {
